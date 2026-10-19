@@ -89,12 +89,6 @@ A healthcare support prototype for community health workers, featuring triage wo
   <img src="https://streak-stats.demolab.com?user=vivek172900&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek172900&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
-</div>
-
 ## 📚 Coding Practice
 
 - [LeetCode — VIVEK_0203](https://leetcode.com/u/VIVEK_0203/)
