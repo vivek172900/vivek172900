@@ -76,11 +76,6 @@ A healthcare support prototype for community health workers, featuring triage wo
 
 **Tech:** Next.js · TypeScript · Flask · LangChain · Google Generative AI
 
-### Meal-Mate — Full-Stack Food Delivery Platform
-A food delivery application project with separate experiences planned for customers, restaurant owners, delivery partners, and administrators.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
-
 > Explore the repositories for implementation details, setup instructions, and the latest project status.
 
 ## 📈 GitHub Activity
