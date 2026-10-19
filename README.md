@@ -4,7 +4,7 @@
 
 # Hi, I'm Vivek Kumar 👋
 
-### Software Engineer | Full-Stack Developer | AI/ML Enthusiast
+### Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
 Building practical applications with clean interfaces, reliable APIs, and AI-powered features.
 
